@@ -1,0 +1,19 @@
+.box { 
+    width: 140px; 
+    height: 60px; 
+    display:grid; 
+    place-items:center; 
+    margin:10px 0; 
+}
+.one{
+    border: solid 10px red;
+}
+
+.two{
+    border: 5em dotted yellow;
+}
+
+.three{
+    border: 2cap groove beige;
+}
+
