@@ -1,0 +1,13 @@
+.striped, .callout { 
+    padding:16px; 
+    margin:12px 0; 
+    background:#fff; 
+}
+
+.striped{
+    border-bottom: 5px solid brown;
+}
+
+.callout{
+    border-left: 10px solid yellow;
+}
