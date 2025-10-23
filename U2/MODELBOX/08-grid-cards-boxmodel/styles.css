@@ -1,0 +1,22 @@
+.grid {
+  display:flex;
+  flex-wrap:wrap;
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
+  margin: 20px;
+  
+  
+  
+ 
+}
+.card {
+  box-sizing: border-box;
+  border: 8px solid rgb(83, 83, 83);
+  border-radius: 8px;
+
+  width: calc(33.333% - 16px); /* calcula pensando en márgenes laterales de 8px */
+  min-height: 100px;
+  background:#929191;
+  padding: 45px;
+  margin: 15px;
+}
