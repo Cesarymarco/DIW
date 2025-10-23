@@ -1,0 +1,9 @@
+.note { 
+    padding:12px; 
+    background:#fef3c7; 
+}
+
+.note{
+    border-inline-start: 5px solid red;
+}
+
