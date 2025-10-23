@@ -1,0 +1,17 @@
+body { 
+    max-width: 60ch; 
+    margin: 40px auto; 
+    line-height:1.5; 
+}
+.p1 { 
+    margin-bottom:30px; 
+    background:#eef; 
+}
+.p2 { 
+    margin-top:40px; 
+    background:#efe; 
+}
+.contenedor{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
